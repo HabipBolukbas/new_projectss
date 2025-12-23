@@ -1,8 +1,4 @@
-Harika! Hocanın veya herhangi bir yazılımcının projeyi saniyeler içinde anlayıp çalıştırabileceği, sektörel standartlarda **"full"** bir README içeriği hazırladım.
 
-Bu metni kopyalayıp projenin ana klasöründeki `README.md` dosyasına yapıştırabilirsin:
-
----
 
 # 🤖 Türkçe Duygu Analizi Uygulaması (BERT & Docker)
 
